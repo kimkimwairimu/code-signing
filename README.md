@@ -41,6 +41,7 @@ Base64 encoding for signature storage
 Validation before execution to prevent unauthorized code from running
 
 Usage
+
 Installation
 !pip install cryptography
 Running the Project
@@ -60,6 +61,7 @@ pythonCopysignature = sign_product(product_code)
 Validate and execute:
 
 pythonCopyvalidate_product(product_code)
+
 Testing
 The project includes tests for both valid and invalid scenarios:
 
