@@ -76,5 +76,5 @@ Rosulek, Chapter 13
 Code Signing Whitepaper, CA Security Council
 D. Cooper et al., Security considerations for code signing
 
-Author: ANU 
+Author: Anusha Yaramala
 student ID: 11696378
